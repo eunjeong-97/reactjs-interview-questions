@@ -1,5 +1,5 @@
-## Index
-
+<!-- ## Index -->
+<!--
 | No. | Questions                                                                                                                                                                                                                            |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1   | [What is React?](#what-is-react)                                                                                                                                                                                                     |
@@ -279,7 +279,7 @@
 | 267 | [How does context work using useContext hook?](#how-does-context-works-using-useContext-hook)                                                                                                                                        |
 | 268 | [What are the use cases of useContext hook?](#what-are-the-use-cases-of-useContext-hook)                                                                                                                                             |
 | 269 | [When to use client and server components?](#when-to-use-client-and-server-components)                                                                                                                                               |
-| 270 | [What are the differences between page router and app router in nextjs?](#what-are-the-differences-between-page-router-and-app-router-in-nextjs)                                                                                     |
+| 270 | [What are the differences between page router and app router in nextjs?](#what-are-the-differences-between-page-router-and-app-router-in-nextjs)                                                                                     | -->
 
 ## Core React
 

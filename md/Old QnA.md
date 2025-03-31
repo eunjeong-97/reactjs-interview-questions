@@ -1,4 +1,4 @@
-| No. | Questions                                                                                                                                                                                  |
+<!-- | No. | Questions                                                                                                                                                                                  |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |     | **Old Q&A**                                                                                                                                                                                |
 | 1   | [Why should we not update the state directly?](#why-should-we-not-update-the-state-directly)                                                                                               |
@@ -89,7 +89,7 @@
 | 86  | [What are the features of create react app?](#what-are-the-features-of-create-react-app)                                                                                                   |
 | 87  | [What is the purpose of renderToNodeStream method?](#what-is-the-purpose-of-rendertonodestream-method)                                                                                     |
 | 88  | [How do you get redux scaffolding using create-react-app?](#how-do-you-get-redux-scaffolding-using-create-react-app)                                                                       |
-| 89  | [What is state mutation and how to prevent it?](#what-is-state-mutation-and-how-to-prevent-it)                                                                                             |
+| 89  | [What is state mutation and how to prevent it?](#what-is-state-mutation-and-how-to-prevent-it)                                                                                             | -->
 
 ## Old Q&A
 

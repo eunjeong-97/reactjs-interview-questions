@@ -1,5 +1,5 @@
 # React Interview Questions & Answers
 
-## [React Core](./React%20Core.md)
+## [React Core](md/React%20Core.md)
 
-## [Old Q&A](./Old%20QnA.md)
+## [Old Q&A](md/Old%20QnA.md)
